@@ -1,3 +1,3 @@
-# port-scanner
-## Python port scanner 
-### This is a personal project created for learning the Python language and exploring cybersecurity concepts
+# Port Scanner
+
+A **Python-based port scanner** built as a personal project to enhance my understanding of both the Python programming language and fundamental cybersecurity concepts.
